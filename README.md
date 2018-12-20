@@ -1,2 +1,4 @@
 # IE555_Class_Projects_2018
-These are the two projects that I have done in my "Programming for Analytics" class
+The projects done here were done in two courses:
+- 1. Programming for Analytics (IE555)
+- 2. Introduction to Machine Learning (CSE574)
