@@ -1,4 +1,14 @@
-# IE555_Class_Projects_2018
+# Class_Projects_2018
 The projects done here were done in two courses:
-- 1. Programming for Analytics (IE555)
-- 2. Introduction to Machine Learning (CSE574)
+- Programming for Analytics (IE555)
+- Introduction to Machine Learning (CSE574)
+
+# Programming for Analytics (IE555)
+- Fire Dispatch - NYC
+- 
+# Introduction to Machine Learning (CSE574)
+- Project 1.1
+- Project 1.2
+- Project 2
+- Project 3
+- Project 4
