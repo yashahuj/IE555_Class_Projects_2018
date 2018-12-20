@@ -5,7 +5,7 @@ The projects done here were done in two courses:
 
 # Programming for Analytics (IE555)
 - Fire Dispatch - NYC
-- 
+- Data Exploration, Visualization, Analysis and Predictive Modeling of NYC Yellow Taxi Trips
 # Introduction to Machine Learning (CSE574)
 - Project 1.1
 - Project 1.2
