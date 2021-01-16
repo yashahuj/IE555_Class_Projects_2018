@@ -7,8 +7,8 @@ The projects done here were done in two courses:
 - Fire Dispatch - NYC
 - Data Exploration, Visualization, Analysis and Predictive Modeling of NYC Yellow Taxi Trips
 # Introduction to Machine Learning (CSE574)
-- Project 1.1
-- Project 1.2
-- Project 2
-- Project 3
-- Project 4
+- Task: Fizzbuzz (Software 1.0 vs Software 2.0)
+- Learning to Rank using Linear Regression
+- Hand Written Comparison Task using Predictive Modeling
+- Ensemble Task Classification
+- Reinforcement Learning
