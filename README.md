@@ -1,4 +1,4 @@
-# Class_Projects_2018
+# Course Projects
 The projects done here were done in two courses:
 - Programming for Analytics (IE555)
 - Introduction to Machine Learning (CSE574)
